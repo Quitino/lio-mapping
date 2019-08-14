@@ -1,4 +1,6 @@
 # LIO-mapping
+
+[泡泡机器人推荐词](https://mp.weixin.qq.com/s?__biz=MzI5MTM1MTQwMw==&mid=2247506119&idx=1&sn=253a91f28022467d2ea52672deee8855&chksm=ec1366c3db64efd55dc583c7a708eb7765340dd55deedb6be5637ee76494ff8dccd338eb4788&mpshare=1&scene=1&srcid=0814AMBlvp4qqxUoIGWXTy9H&sharer_sharetime=1565762660063&sharer_shareid=662e33bcf39b24da66575a9f1c3f9ab8&pass_ticket=F%2FDcQUFoziFQRIZO5nFqbGSWQROwfTXyyFj%2B3FTug77yGQBpxqgMTzUTPyXdfXYW#rd)
 ## A Tightly Coupled 3D Lidar and Inertial Odometry and Mapping Approach
 #### Authors: Haoyang Ye, Yuying Chen, and Ming Liu from [RAM-LAB](https://ram-lab.com/).
 [[Paper]](https://arxiv.org/abs/1904.06993), [[Project]](https://sites.google.com/view/lio-mapping), [[Bib]](https://ram-lab.com/papers/2019/icra_2019_ye.bib). ICRA 2019.
